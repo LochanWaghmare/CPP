@@ -18,7 +18,8 @@ A Computer Graphics program demonstrating basic 2D transformations such as Trans
 - Rotation
 - Reflection
 
- ### Technologies Used:**
+
+ # Technologies Used:
 - C++
 - Turbo C++
 - graphics.h
