@@ -18,6 +18,14 @@ A Computer Graphics program demonstrating basic 2D transformations such as Trans
 - Rotation
 - Reflection
 
+### 3. Line Drawing Algorithms
+
+A program demonstrating line drawing using two standard Computer Graphics algorithms.
+
+**Algorithms Covered:**
+- DDA Line Drawing Algorithm
+- Bresenham's Line Drawing Algorithm
+
 
  # Technologies Used:
 - C++
