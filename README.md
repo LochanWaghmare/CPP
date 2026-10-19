@@ -15,7 +15,7 @@ This repository contains C++ programs for learning and practice.
 
 This repository also includes Computer Graphics projects developed using C++ and "graphics.h".
 
-# Projects Included:
+### Projects Included:
 
 - Virtual Eye Simulation
 - 2D Transformations
